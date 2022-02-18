@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BazarMoynaguri/static/css/main.30c22bc0.css",
+    "main.js": "/BazarMoynaguri/static/js/main.c57614cf.js",
+    "index.html": "/BazarMoynaguri/index.html",
+    "main.30c22bc0.css.map": "/BazarMoynaguri/static/css/main.30c22bc0.css.map",
+    "main.c57614cf.js.map": "/BazarMoynaguri/static/js/main.c57614cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c22bc0.css",
+    "static/js/main.c57614cf.js"
+  ]
+}
