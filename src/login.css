@@ -1,0 +1,387 @@
+.search_main_section {
+  width: 100%;
+  float: left;
+  margin-top: 180px;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 15px;
+  color: #454545;
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  margin: 0;
+    margin-top: 0px;
+  padding: 0;
+}
+
+.container0 {
+  max-width: 1190px;
+}
+.container0 {
+  max-width: 960px;
+}
+.container0 {
+  max-width: 720px;
+}
+.container0 {
+  max-width: 540px;
+  max-width: 100%;
+}
+.container0 {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.main-center-div {
+  max-width: 416px;
+  margin: auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.top-border-div {
+  float: left;
+  width: 100%;
+  border: 1px solid #e8e8ea;
+  border-radius: 5px;
+  box-shadow: 0 2px 19px #e8e8e8;
+}
+
+.login-from-area {
+  text-align: left;
+  padding: 20px 20px 12px 20px;
+}
+
+.login-from-area h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 20px;
+  line-height: 23px;
+}
+.h2, h2 {
+  font-size: 2rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+.login-from-area {
+  text-align: left;
+}
+
+.login-type {
+  width: 100%;
+  float: left;
+  border: 1px solid #ced3d5;
+  height: 50px;
+  border-radius: 4px;
+  padding: 5px 15px;
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 15px;
+}
+button, input {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+    margin-bottom: 0px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.password-in {
+  position: relative;
+}
+
+.login-type {
+  width: 100%;
+  float: left;
+  border: 1px solid #ced3d5;
+  height: 50px;
+  border-radius: 4px;
+  padding: 5px 15px;
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 15px;
+}
+button, input {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+    margin-bottom: 0px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+
+.fa-fw {
+
+    width: 1.28571429em;
+    text-align: center;
+
+}
+.fa {
+
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+        font-size: 14px;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+.field-icon {
+
+    position: absolute;
+    z-index: 2;
+    right: 16px;
+    bottom: 32px;
+    color: #707b7d;
+
+}
+
+.remmber-area {
+  display: inline-block;
+  width: 100%;
+  margin: 2px 0 4px 0;
+}
+
+.remmber-area .list_checkBox {
+  padding-left: 0px;
+}
+.remmber-area .list_checkBox {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-left: 23px;
+}
+label {
+  display: inline-block;
+  margin-bottom: .5rem;
+}
+label {
+  list-style: none;
+  padding: 0px;
+    padding-left: 0px;
+  margin: 0px;
+    margin-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.remmber-area .list_checkBox input[type="checkbox"] {
+  float: left;
+  margin: 2px 10px 0 0;
+}
+input[type="checkbox"], input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+button, input {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.forgot-passwords {
+  color: #000;
+  font-size: 15px;
+  font-weight: 400;
+  float: right;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+[type="reset"], [type="submit"], button, html [type="button"] {
+  -webkit-appearance: button;
+}
+.login-submit {
+  width: 100%;
+  text-align: center;
+  background: #f02f34;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 4px;
+  height: 46px;
+}
+button, select {
+  text-transform: none;
+}
+button, input {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+button {
+  border-radius: 0;
+}
+
+.or-area {
+  border-bottom: 1px solid #e2e2e2;
+  position: relative;
+  margin: 0 0 16px 0;
+  text-align: center;
+}
+
+.or-area span {
+  color: #717171;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 2px 10px;
+  background: #fff;
+  position: relative;
+  bottom: -11px;
+}
+
+.login-socials-area {
+  padding: 15px 20px 0px 20px;
+  text-align: center;
+}
+
+.socials-btns {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.login-socials-area {
+  text-align: center;
+}
+
+.facebook-btn {
+  background: #3c5a99;
+  color: #fff;
+  border: 1px solid #3c5a99;
+}
+.common-btns {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+  border-radius: 4px;
+  padding: 10px 5px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+a {
+  text-decoration: none;
+}
+
+.common-btns img {
+  margin-right: 5px;
+}
+a img {
+  border: none;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.facebook-btn {
+  color: #fff;
+}
+.common-btns {
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.google-btn {
+  border: 1px solid #ced3d5;
+  color: #333;
+  margin-right: 0px;
+}
+
+.common-btns img {
+  margin-right: 5px;
+}
+a img {
+  border: none;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.google-btn {
+  color: #333;
+}
+
+.bottom-account-div {
+  padding-top: 15px;
+  display: inline-block;
+}
+
+.bottom-account-div p {
+  color: #2a2a2f;
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0px;
+  line-height: 23px;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: #454545;
+  margin: 0;
+  padding: 0;
+}
+
+.bottom-account-div p a {
+  color: rgb(228, 46, 46);
+}
